@@ -1,6 +1,9 @@
-## React Project #2
+### React Project #2
 Built following this tutorial:
 https://youtu.be/0riHps91AzE
+
+## New Concepts Learned
+"Semantic UI" for unified CSS class names
 
 ## Available Scripts
 
