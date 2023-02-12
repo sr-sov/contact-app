@@ -3,9 +3,12 @@ Built following this tutorial:
 https://youtu.be/0riHps91AzE
 
 ## New Concepts Learned
+# React Fundamentals
 "Semantic UI" for unified CSS class names
 Pass Function as prop(Handler)
 this.state vs creating state variables with const [stateName, setStateName] - applied on AddContact.jsx
+
+# React Router
 
 36:00
 "But if I refresh it, you will see that the list resets. We are not processing the data. In order to process data, we are actually going to use the local storage. For using the local storage, I'm going to use one more React Hook which is the 'useEffect'. Whenever the value actually changes, useEffect helps us to render the component again.
